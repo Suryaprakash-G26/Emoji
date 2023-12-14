@@ -17,6 +17,11 @@ This simple web application provides an interactive interface to retrieve emojis
 
 ### deployed Link 
 [Click to open](https://whimsical-semifreddo-789823.netlify.app/)
+
+## Screenshots
+![image](https://github.com/Suryaprakash-G26/Emoji/assets/141228691/e30cd705-47aa-4597-a5b2-9a4585c86b27)
+
+
 ## Contact
 
 Feel free to reach out if you have any questions or suggestions:
